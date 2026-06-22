@@ -1,8 +1,6 @@
 """
-PROJECT: Rule-Based AI Chatbot (COMPLETE UPGRADED VERSION)
-BATCH: 2026 | DecodeLabs
-DESCRIPTION: A fully featured rule-based chatbot with random responses,
-             user name memory, chat logging, timestamps, and error handling.
+PROJECT: Rule-Based AI Chatbot 
+
 """
 
 import random
