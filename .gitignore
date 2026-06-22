@@ -1,0 +1,31 @@
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyzw
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# Logs and databases
+chat_log.txt
+*.log
+*.sqlite
+*.db
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Windows files
+Thumbs.db
+desktop.ini
+
+# Mac files
+.DS_Store
